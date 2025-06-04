@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 😊 I'm Preksha Gaur, currently a second-year BTech IT student. Tech is my passion, and I love diving into its different facets. I've got a solid grip on programming languages like C, C++, and web languages such as HTML, CSS, and JavaScript. I'm also exploring the basics of cloud computing with GCP. 💻🌐
+Hi there! 😊 I'm Preksha Gaur, currently a Third-year BTech IT student. Tech is my passion, and I love diving into its different facets. I've got a solid grip on programming languages like C, C++, Python and web languages such as HTML, CSS, and JavaScript. I'm also exploring the basics of cloud computing with GCP. 💻🌐
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/preksha-gaur-4439bb25a/) 
