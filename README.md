@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 😊 I'm **Preksha Gaur**, currently a third-year BTech IT student.  
+Hi there! 😊 I'm **Preksha Gaur**, currently a Final-Year BTech IT student.  
 Tech is my passion, and I love diving into its different facets.  
 I've got a solid grip on programming languages like **C, C++, Python**, and web languages such as **HTML, CSS, and JavaScript**.  
 I'm also exploring the basics of **cloud computing with GCP**. 💻🌐
