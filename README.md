@@ -7,7 +7,6 @@ I'm also exploring the basics of **cloud computing with GCP**. 💻🌐
 # 🚀 Current Projects:
 - 🎤 **Speech Misarticulation Detection using Deep Learning**
 - 🌿 **Leaf Disease Detection with Heatmap Visualization**
-- 🧠 Exploring **Machine Learning Deployment**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preksha-gaur-4439bb25a/)
