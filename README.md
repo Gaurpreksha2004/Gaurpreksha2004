@@ -22,7 +22,6 @@ I'm also exploring the basics of **cloud computing with GCP**. 💻🌐
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gaurpreksha2004&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gaurpreksha2004&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurpreksha2004&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
